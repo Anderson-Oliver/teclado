@@ -1,6 +1,9 @@
 body{
     background-color: #555;
 }
+.teclado{
+    display: flex;
+}
 .oitava {
     position: relative;
     display: flex;
@@ -16,4 +19,5 @@ body{
     background-color: #000;
     width: 30px;
     height: 160px;
+    right: 20px;
 }
